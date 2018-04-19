@@ -1,0 +1,7 @@
+exports._ = require('min-util')
+exports.base64 = require('min-base64')
+exports.log = require('min-log')
+exports.md5 = require('min-md5')
+exports.promise = require('min-promise')
+exports.qs = require('min-qs')
+exports.url = require('min-url')
